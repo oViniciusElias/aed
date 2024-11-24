@@ -10,9 +10,9 @@ int main(){
     if (X % 2 !=0){
         X--;}
 
-        for(int i=6; i>0; i--){
-            printf("%d\n",X+1);
-            X=X+2;}
+    for(int i=6; i>0; i--){
+        printf("%d\n",X+1);
+        X=X+2;}
             
     return 0;
 
