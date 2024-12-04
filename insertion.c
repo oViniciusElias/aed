@@ -1,4 +1,4 @@
-//Vinícius de Oliveira Elias - 197552 - MergeSort
+//Vinícius de Oliveira Elias - 197552 - InsertionSort
 
 
 #include <stdio.h>
