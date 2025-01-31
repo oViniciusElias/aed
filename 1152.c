@@ -10,10 +10,6 @@ Beecrowd exercício 1152
 #include <string.h>
 
 
-
-#include <stdio.h>
-#include <stdlib.h>
-
 struct celula {
     int tamanho;
     int *pais, *rankings;
